@@ -1,4 +1,5 @@
 **Image Processing & Data Representation Project**
+
 📌 **Overview**
 This project implements a from-scratch image processing system in Python to demonstrate data manipulation, computational thinking, and algorithm design—skills fundamental to Data Science. Instead of using high-level libraries like OpenCV, all transformations are applied directly at the pixel level, reinforcing understanding of matrices, iteration, and numerical computation.
 **🛠️ Tech Stack**
