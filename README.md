@@ -8,11 +8,16 @@ Python
 NumPy
 PIL (for file I/O only — processing logic is fully custom)
 Wave / Struct for audio data scaffolding
+
 **🧠** Data Science Skills Demonstrated****
 Structured data representation using nested lists (3D arrays)
+
 Clean class design and abstraction (RGBImage, processing tiers)
+
 Implementation of numerical algorithms
+
 Cost-model simulation mimicking SaaS pricing logic
+
 Robust validation, deep copying, and safe mutation practices
 
 **🖼️ Core Features**
@@ -29,14 +34,21 @@ Standard processor with cost + coupon system
 Premium processor with advanced features
 
 **▶️ Example Usage**
+
 img = img_read_helper("input.png")
+
 processor = StandardImageProcessing()
+
 gray = processor.grayscale(img)
+
 img_save_helper("output.png", gray)
 
 **📂 Structure**
+
 project.py
+
 img/
+  
   test + output samples
 
 **👤 Author**
